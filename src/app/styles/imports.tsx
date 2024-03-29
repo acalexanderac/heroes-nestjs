@@ -1,0 +1,11 @@
+export { default as ubiquoLogo } from "../../../public/resources/ubiquoLogo.png";
+export { default as ubiquoLogoTexto } from "../../../public/resources/ubiquoLogoTexto.png";
+export { default as programmer } from "../../../public/resources/programmer.svg";
+export { default as superman } from "../../../public/resources/superman.svg";
+export { default as batman } from "../../../public/resources/batman.svg";
+export { default as nextjs } from "../../../public/resources/nextjs.png";
+export { default as tailwindcss } from "../../../public/resources/tailwindcss.png";
+export { default as nestjs } from "../../../public/resources/nestjs.png";
+export { default as doggo } from "../../../public/resources/doggo.png";
+export { default as spiderman } from "../../../public/resources/spiderman.jpg";
+export { default as supercat } from "../../../public/resources/supercat.jpg";
