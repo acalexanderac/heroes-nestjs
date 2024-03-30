@@ -1,3 +1,3 @@
-import PacientesFormPage from "../agregar/page";
+import HeroPage from "../agregar/page";
 
-export default PacientesFormPage;
+export default HeroPage;
